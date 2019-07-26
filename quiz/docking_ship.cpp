@@ -1,12 +1,12 @@
 /**
  * swea 4371
  */
-
 #include <bits/stdc++.h>
 
 int hp[5000];
 
 int main (void) {
+    
     int T, tc, N, ship_cnt, i, j, ip;
     std::cin >> T;
     for (tc = 1; tc <= T; ++tc) {
