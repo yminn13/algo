@@ -1,3 +1,6 @@
+/**
+ * boj 1018
+ */
 #include <iostream>
 
 char board[50][50];
